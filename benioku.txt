@@ -1,0 +1,1 @@
+Program derlenirken switch yapısıyla alakalı warning veriyor ama çalışmasına engel değil.
